@@ -12,5 +12,18 @@
   },
   "engines": {
     "node": "18.x"
-  }
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nani3914/jarvis-nani-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nani3914/jarvis-nani-backend/issues"
+  },
+  "homepage": "https://github.com/Nani3914/jarvis-nani-backend#readme"
 }
